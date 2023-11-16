@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wwjd_chat/components/feedback_list_view.dart';
 import 'package:wwjd_chat/screens/auth/auth_screen.dart';
-import 'package:wwjd_chat/screens/chat/chat_screen.dart';
-import 'package:wwjd_chat/screens/feedback/feedback_screen.dart';
 import 'package:wwjd_chat/util/color.dart';
 
 void main() {

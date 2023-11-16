@@ -25,7 +25,7 @@ class NavDrawerItemList extends StatefulWidget {
 class _NavDrawerItemListState extends State<NavDrawerItemList> {
   final _controller = TextEditingController();
 
-  User _user = User();
+  User _user=User(isSuperuser: false);
 
   @override
   void initState() {
